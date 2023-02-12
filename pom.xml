@@ -6,7 +6,7 @@
 
     <groupId>com.templars_server</groupId>
     <artifactId>mb2-log-reader-schema</artifactId>
-    <version>1.6.0</version>
+    <version>1.6.1</version>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
